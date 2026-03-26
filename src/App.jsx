@@ -1,4 +1,4 @@
-Import { useState, useRef } from "react";
+import { useState, useRef } from "react";
 
 const PRESET_COLORS = ["#34456c","#8B2252","#2E86AB","#A23B72","#F18F01","#C73E1D","#44BBA4","#E94F37","#6B4226","#7B2D8B","#1B998B","#393E41"];
 const CONTENT_TYPES = ["Reel","Carrusel","Historia","Post estático"];
